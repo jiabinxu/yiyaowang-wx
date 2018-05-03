@@ -8,7 +8,7 @@
 
 #实例Gif
 
-![image](https://github.com/jiabinxu/yiyaowang-wx/blob/master/%E5%A3%B9%E8%8D%AF%E7%BD%911.gif)
+![image](https://github.com/jiabinxu/yiyaowang-wx/blob/develop/%E5%AE%9E%E4%BE%8B%E5%9B%BE.gif)
  
  
  ## TODO
